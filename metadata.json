@@ -1,0 +1,6 @@
+{
+  "name": "Aura Home Appliances & Electronics",
+  "description": "Premium home appliances retailer with 3D product showcase, secure admin dashboard, WhatsApp ordering, and 24/7 repair services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
